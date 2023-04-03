@@ -20,7 +20,6 @@
 
 #### [Jira Software][jra]
 - [jra]:https://vsync.atlassian.net/
-
  - Github
 
  - Python
