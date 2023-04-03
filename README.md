@@ -19,7 +19,7 @@
  - 5W2H
 
 #### [Jira Software][jra]
- - [jra]:https://vsync.atlassian.net/
+- [jra]:https://vsync.atlassian.net/
 
  - Github
 
