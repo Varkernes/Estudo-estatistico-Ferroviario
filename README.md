@@ -14,11 +14,12 @@
 
  - Documentação do projeto de forma clara e de fácil acesso
 
- ## Tecnológias
+ ## Tecnologias
 
  - 5W2H
 
- - Jira Software
+#### [Jira Software][jra]
+ - [jra]:https://vsync.atlassian.net/
 
  - Github
 
